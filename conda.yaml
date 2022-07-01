@@ -1,0 +1,13 @@
+name: C:\Users\acreddy\Desktop\mlflow-1\mlflow-ElasticNet\.venv
+channels:
+  - defaults
+dependencies:
+  - pip=21.2.4
+  - python=3.10.4
+  - pip:
+    - mlflow==1.27.0
+    - numpy==1.23.0
+    - pandas==1.4.3
+    - scikit-learn==1.1.1
+    
+prefix: C:\Users\acreddy\Desktop\mlflow-1\mlflow-ElasticNet\.venv
