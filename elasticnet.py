@@ -6,6 +6,7 @@ from sklearn.linear_model import ElasticNet
 import numpy as np
 import pandas as pd
 import mlflow
+import mlflow.sklearn
 
 
 def evaluate(actual, pred):

@@ -1,6 +1,6 @@
 name: sample_demo
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - pip=21.2.4
   - python=3.10.4
